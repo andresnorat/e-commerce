@@ -18,6 +18,4 @@ export class ProductComponent {
   addToCartHandler(){
     console.log('Click desde el child');
   }
-
-
 }
